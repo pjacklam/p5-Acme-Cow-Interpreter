@@ -1,5 +1,7 @@
 0.02 Not Released
 
+ * Increment version number.
+
  * Add test file t/release-test-version.t.
 
  * Add test file t/release-portability.t.

@@ -35,7 +35,7 @@ use warnings;           # control optional warnings
 
 use Carp;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 # This hash maps each of the 12 command (used in the source code) to the
 # corresponding numerical code, from 0 to 11.
