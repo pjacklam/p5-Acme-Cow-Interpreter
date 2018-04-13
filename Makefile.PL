@@ -1,9 +1,4 @@
 # -*- mode: perl; coding: us-ascii-unix -*-
-#
-# Author:      Peter John Acklam
-# Time-stamp:  2010-05-26 13:43:22 +02:00
-# E-mail:      pjacklam@online.no
-# URL:         http://home.online.no/~pjacklam
 
 use 5.008;              # required version of Perl
 use strict;             # restrict unsafe constructs

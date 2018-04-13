@@ -1,9 +1,4 @@
 #!/usr/bin/perl
-#
-# Author:      Peter John Acklam
-# Time-stamp:  2010-05-23 09:33:48 +02:00
-# E-mail:      pjacklam@online.no
-# URL:         http://home.online.no/~pjacklam
 
 #########################
 

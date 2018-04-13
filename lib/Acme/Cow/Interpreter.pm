@@ -1,9 +1,4 @@
 # -*- mode: perl; coding: us-ascii-unix; -*-
-#
-# Author:      Peter John Acklam
-# Time-stamp:  2010-05-26 13:12:29 +02:00
-# E-mail:      pjacklam@online.no
-# URL:         http://home.online.no/~pjacklam
 
 =pod
 

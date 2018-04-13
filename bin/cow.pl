@@ -17,11 +17,6 @@
 # file to `/usr/local/bin/cow', and then use `#!/usr/local/bin/cow' on the top
 # of your Cow programs. Then you don't need to call this interpreter
 # explicitly.
-#
-# Author:      Peter John Acklam
-# Time-stamp:  2010-05-26 12:59:32 +02:00
-# E-mail:      pjacklam@online.no
-# URL:         http://home.online.no/~pjacklam
 
 ###############################################################################
 ## Modules and package variables.

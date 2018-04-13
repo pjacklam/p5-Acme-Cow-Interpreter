@@ -1,11 +1,6 @@
 #!/usr/bin/perl
 #
 # cowtidy - pretty-prints Cow source code
-#
-# Author:      Peter John Acklam
-# Time-stamp:  2010-03-22 20:37:11 +01:00
-# E-mail:      pjacklam@online.no
-# URL:         http://home.online.no/~pjacklam
 
 ###############################################################################
 ## Modules and package variables.

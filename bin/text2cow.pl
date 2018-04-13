@@ -1,11 +1,6 @@
 #!/usr/bin/perl
 #
 # text2cow - prints Cow source code that prints a given text
-#
-# Author:      Peter John Acklam
-# Time-stamp:  2010-05-26 14:18:31 +02:00
-# E-mail:      pjacklam@online.no
-# URL:         http://home.online.no/~pjacklam
 
 ###############################################################################
 ## Modules and package variables.
