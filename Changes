@@ -1,13 +1,11 @@
 0.02 Not Released
 
- * Increment version number.
-
- * Add test file t/release-test-version.t.
-
- * Add test file t/release-portability.t.
-
- * Format CHANGES according to CPAN::Changes::Spec. Add test file
+ * Add test file t/release-test-version.t, t/release-portability.t, and
    t/release-cpan-changes.t.
+
+ * Format CHANGES according to CPAN::Changes::Spec.
+
+ * Update MANIFEST.SKIP.
 
 0.01 2008-02-29
 
