@@ -64,7 +64,3 @@ moO         #         move memory position forward from block 1 to 2
 moo         #     end of inner loop
 mOo mOo     #     move memory position backwards, from 2 to 0
 moo         # end of main (outer) loop
-
-# Emacs Local Variables:
-# Emacs mode: sh
-# Emacs End:

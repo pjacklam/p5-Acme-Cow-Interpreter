@@ -1,11 +1,28 @@
-0.02 Not Released
-
- * Add test file t/release-test-version.t, t/release-portability.t, and
-   t/release-cpan-changes.t.
+0.02 2020-12-20
 
  * Format CHANGES according to CPAN::Changes::Spec.
 
  * Update MANIFEST.SKIP.
+
+ * Update link to language definition.
+
+ * Update author information.
+
+ * Remove references to the CPAN RT as it is soon to be shut down.
+
+ * Add reference to the GitHub issue tracker.
+
+ * Replace t/02-pod.t by xt/release/pod-syntax.t.
+
+ * Replace t/03-pod-coverage.t by xt/release/pod-coverage.t.
+
+ * Add new test files xt/release/cpan-changes.t, xt/release/kwalitee.t,
+   xt/release/portability.t, xt/release/synopsis.t, xt/release/test-version.t,
+   xt/release/unused-vars.t, xt/release/version.t, and xt/release/whitespaces.t.
+
+ * Remove Emacs variables from various files.
+
+ * Add new file README.md for
 
 0.01 2008-02-29
 

@@ -1,4 +1,5 @@
-#!start included /usr/local/share/perl5/site_perl/5.26/ExtUtils/MANIFEST.SKIP
+#!start included /usr/share/perl5/5.30/ExtUtils/MANIFEST.SKIP
+
 # Avoid version control files.
 \bRCS\b
 \bCVS\b
@@ -63,12 +64,16 @@
 # Avoid MYMETA files
 ^MYMETA\.
 
-# Avoid travis-ci.org file
-^\.travis.yml
+# Temp files for new META
+^META_new\.(?:json|yml)
 
-# Avoid appveyor.com file
-^\.appveyor.yml
-#!end included /usr/local/share/perl5/site_perl/5.26/ExtUtils/MANIFEST.SKIP
+# Avoid travis-ci.org file
+^\.travis\.yml
+
+# Avoid AppVeyor file
+^\.?appveyor.yml
+
+#!end included /usr/share/perl5/5.30/ExtUtils/MANIFEST.SKIP
 
 # Avoid more git stuff.
 \B\.gitattributes\b
